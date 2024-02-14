@@ -2,4 +2,4 @@ spring:
   application:
     name: default application
   profiles:
-    active: prod
+    active: dev
