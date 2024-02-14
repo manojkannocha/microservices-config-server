@@ -1,5 +1,5 @@
 spring:
   application:
-    name: confiq server application
+    name: confiq server application1
   profiles:
     active: dev
